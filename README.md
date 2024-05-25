@@ -11,11 +11,14 @@ This project simulates the distribution of wheat flour aid in northern Gaza unde
 
 - Clone the repository to your local machine.
 - Ensure GCC and Make are installed on your system. Optionally, if you use OpenGL for visual representation, ensure it is installed.
-- Navigate to the project directory and compile the project:
- ```
-  make 
-  ./main
- ```
+- Compile and run plane.c and main.c in separate terminals. Follow the steps below:
+
+1. Open a terminal and navigate to the directory containing your source files.
+2. compile the project using the make command "make"
+3. In the same terminal, run plane program
+4. Open a new terminal and navigate to the same directory."./plane"
+5. In the new terminal, run the compiled main program "./main"
+
 
 
 ---
