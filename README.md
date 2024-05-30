@@ -1,4 +1,7 @@
 # Interprocess Communication Techniques under Linux
+---
+
+![Project Overview](image.jpg)
 
 ---
 
