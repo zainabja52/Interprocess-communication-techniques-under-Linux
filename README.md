@@ -8,9 +8,6 @@
 ## Objective
 This project simulates the distribution of wheat flour aid in northern Gaza under challenging conditions. It uses multiple interprocess communication techniques to manage a multi-processing environment where various processes such as cargo planes dropping aid, relief workers collecting and distributing flour, and hazards from hostile forces interact in real-time.
 
-https://github.com/user-attachments/assets/2ea4341e-780a-4016-8e98-39cdd4a114c3
-
-
 ---
 
 ## How to run
